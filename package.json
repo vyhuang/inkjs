@@ -3,7 +3,7 @@
   "version": "2.3.2",
   "description": "A javascript port of inkle's ink scripting language (http://www.inklestudios.com/ink/)",
   "type": "commonjs",
-  "main": "dist/ink-full.js",
+  "main": "./ink.js",
   "types": "ink.d.ts",
   "files": [
     "engine",
